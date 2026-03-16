@@ -43,8 +43,6 @@ movies.csv / dataset file — movie metadata dataset
 
 Clone this repository
 
-git clone https://github.com//machine-learning-projects.git
-
 Open the notebook in Jupyter
 
 Run all cells to build the recommendation model
